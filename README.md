@@ -1,6 +1,6 @@
 # Leonardo Galetti 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
+<img align='right' src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" width="230">
 <p><em>CTO & Software Enginner at Raio-X</br></em></p>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/leogaletti)
