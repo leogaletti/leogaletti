@@ -1,7 +1,7 @@
 # Leonardo Galetti 👨‍💻
 
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
-<p><em>CTO & Software Engineer at Raio-X</br></em></p>
+<p><em>CTO & Software Engineer at LGM Soluções Digitais</br></em></p>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamtupiz/)](https://twitter.com/leogaletti)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeutupinamba/)](https://www.linkedin.com/in/leonardo-galetti-de-mello-9854a162/)
